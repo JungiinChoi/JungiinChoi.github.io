@@ -27,19 +27,21 @@ author1:
   # Rearrange to change the order in which they appear
   social:
     # twitter:         <username>
-    github:          JaneeChoi
-    email:           serimtech07@snu.ac.kr
+      github:          JaneeChoi
+      email:           serimtech07@snu.ac.kr
+    
     # rss:             https://<url>/feed.xml
     # facebook:        <username>
     # google:          <number>
     # vk:              <username>
-     youtube:         https://youtube.com/channel/UC1NHX-GpHErYPT894YMXKiQ
+      youtube:         https://youtube.com/channel/UC1NHX-GpHErYPT894YMXKiQ
     # vimeo:           <username>
     # vine:            <username>
     # spotify:         <user>/<number>
     # soundcloud:      <username>
     # lastfm:          <username>
-    instagram:       choiiii.___
+      instagram:       choiiii.___
+    
     # flickr:          <string@string>
     # 500px:           <username>
     # dribbble:        <username>
