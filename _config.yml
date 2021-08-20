@@ -29,9 +29,8 @@ description:           >
 
 # A shorter description for the sidebar.
 tagline:               Double Major in Statistics, Mathematics in Seoul National University
-
 # A list of keywords for your blog
-keywords:              [Statistics, Mathematics, Programming, Dance, Blog, Vlog]
+keywords:              [Statistics, Mathematics, Programming, Blog, Vlog]
 
 # A (square) logo for your site.
 # If provided, it will be shown at the top of the sidebar.
@@ -48,14 +47,17 @@ author:
 
 # Add links to the sidebar.
 menu:
-  - title:             Projects
+  - title:             Experiences
+    url:               /experiences/
+  - title:             Research & Projects
     url:               /projects/
-  - title:             Documentation
+  - title:             Résumé*
+    url:               /resume/
+  - title:             Study
     url:               /docs/
   - title:             Blog
     url:               /blog/
-  - title:             Résumé*
-    url:               /resume/
+
 
 
 # Add links to the footer.
