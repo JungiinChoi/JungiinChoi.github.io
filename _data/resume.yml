@@ -8,95 +8,188 @@ basics:
   email: "serimtech07@snu.ac.kr"
   website: "https://janeechoi.github.io"
   summary: >
-    Richard hails from Tulsa.
-    He has earned degrees from the University of Oklahoma and Stanford. (Go Sooners and Cardinals!)
-    Before starting Pied Piper, he worked for Hooli as a part time software developer.
-    While his work focuses on applied information theory,
-    mostly optimizing lossless compression schema of both the length-limited and adaptive variants,
-    his non-work interests range widely,
-    everything from quantum computing to chaos theory.
-    He could tell you about it, but THAT would NOT be a “length-limited” conversation!
-    Open `_data/resume.yml` to edit this text.
-  location:
-    address: "2712 Broadway St"
-    postalCode: "CA 94115"
-    city: "San Francisco"
-    countryCode: "US"
-    region: "California"
+    Choi Jung In is from Republic of Korea.
+    She is in double major of Statistics and Mathematics in Seoul National University(SNU).
+    She has research experiences in three statistics laboratory in SNU and NAVER search CIC.
+    Before starting career as researcher of NAVER, she worked for Bayesian Lab, Bioinformatics and Biostatics Lab, and High Dimentional Massive Data Analytics Lab in Statistics Department of SNU.
+    Her main research interest in Statistics is Statistical Machine Learning and Analysis and prediction of High Dimentional data such as NAVER search log data.
+    
   profiles:
-    - network: "Twitter"
-      username: "RHendricksCEO"
+    - network: "github"
+      username: "JaneeChoi"
       url: ""
-    - network: "LinkedIn"
-      username: "Richard Hendricks"
-      url: ""
-work:
-  - company: "Pied Piper"
-    position: "CEO/President"
-    website: "https://piedpiper.com"
-    startDate: "2013-12-01"
-    endDate: ""
-    summary: >
-      Pied Piper is a multi-platform technology based on a proprietary universal compression algorithm that has
-      consistently fielded high Weisman Scores™ that are not merely competitive,
-      but approach the theoretical limit of lossless compression.
-    highlights:
-      - "Built an algorithm for artist to detect if their music was violating copy right infringement laws"
-      - "Successfully won Techcrunch Disrupt"
-      - "Optimized an algorithm that holds the current world record for Weisman Scores"
-volunteer:
-  - organization: "CoderDojo"
-    position: "Teacher"
-    website: "https://coderdojo.com/"
-    startDate: "2012-01-01"
-    endDate: "2013-01-01"
-    summary: "Global movement of free coding clubs for young people."
-    highlights:
-      - "Awarded 'Teacher of the Month'"
+      
 education:
-  - institution: "University of Oklahoma"
-    area: "Information Technology"
+  - institution: "Seoul National University"
+    area: "Statistics"
     studyType: "Bachelor"
-    startDate: "2011-06-01"
-    endDate: "2014-01-01"
+    startDate: "2017-03-01"
+    endDate: ""
     gpa: "4.0"
     courses:
-      - "DB1101 - Basic SQL"
-      - "CS2011 - Java Introduction"
+      - "Statistical Computing"
+      - "Concepts and Applications in Probability"
+      - "Sampling Design and Survey Practice"
+      - "Mathematical Statistics"
+      - "Programming Practice"
+      - "Discrete Data Analysis"
+      - "Multivariate Data Analysis"
+      - "Bayesian Statistics"
+      - "Survival Data Analysis"
+      - "Regression Analysis"
+      - "Time Series Analysis"
+      - "Data Mining Methods"
+      - "Statistical Quality Control"
+      - "Stochastic Processes"
+      - "Statistical Analysis for Spatial Data"
+      - "Deep Learning: Statistical Perspective"
+
+  - institution: "Seoul National University"
+    area: "Mathematics"
+    studyType: "Bachelor"
+    startDate: "2017-03-01"
+    endDate: ""
+    gpa: "4.1"
+    courses:
+      - "Linear Algebra"
+      - "Introduction to Mathematical Analysis"
+      - "Differential Equations"
+      - "Modern Algebra"
+      - "Partial Differential Analysis"
+      - "Calculus on Manifolds"
+      - "Real Analysis"
+      
+  - institution: "Korea Science Academy of KAIST"
+    studyType: ""
+    startDate: "2014-03-01"
+    endDate: "2017-02-22"
+    gpa: ""
+    courses:
+      - "Summa Cum Laude (3rd place)"
+      - "Dean's List (Nominated for 7 semesters)"
+      - "Presented a paper at 2016 ICPAM(International Conference on Pure and Applied Mathematics)"
+      - "Presented a paper at Conference on Korea Multimedia Society"
+      
+work:
+  - company: "Bioinformatics & Biostatistics Laboratory (PI:Taesung Park)"
+    position: "Undergraduate Researcher"
+    website: "http://bibs.snu.ac.kr"
+    startDate: "2020-12-12"
+    endDate: ""
+    summary: >
+    highlights:
+      - "Devised and implemented a unique deep learning model in developing a prognosis analysis and prediction of MRM(Multiple Reaction Monitoring) Pancreatic cancer data"
+      - "Devised clinically applicable deep learning algorithm using quantitative proteomic multimarker panel for enhancement of diagnostic performance on pancreatic cancer"
+      - "Construction of interpretable DNN model using SHAP value for enhancement of diagnostic performance of martimarker panel on pancreatic cancer "
+  
+  - company: "High Dimensional Massive Data Analytics Laboratory (PI: Prof. Woncheol Jang)"
+    position: "Undergraduate Researcher"
+    website: ""
+    startDate: "2021-06-01"
+    endDate: ""
+    summary: >
+    highlights:
+      - "Designed and Developed an R Package for semiparametric mixture method for local false discovery rate estimation"
+      - "Optimized an algorithm for faster multivariate log-concave density estimation by smoothing subgradient-based convex optimization"
+      - "Studied semiparametric mixture method for local false discovery rate estimation from multiple studies"
+
+  - company: "Bayesian Statistics Research Laboratory (PI: Prof. Jaeyong Lee)"
+    position: "Undergraduate Researcher"
+    website: "https://snubayes.wordpress.com"
+    startDate: "2020-06-01"
+    endDate: "2020-09-01"
+    summary: >
+    highlights:
+      - "Devised and implemented a unique Bayesian epidemic model (SEIRC model) in prediction of Korean COVID-19 data"
+      - "Predicting engine failure with Bayesian hierarchical Gaussian Process using naval ship failure data. (Registered on official Stan case-studies)"
+      - "Studied linear regression modeling of interval-observed data using MCMC with covariance adjustment"
+  
+  - company: "NAVER Search CIC"
+    position: "Researcher / Programmer"
+    website: "https://www.navercorp.com/en/naver/company"
+    startDate: "2021-08-30"
+    endDate: ""
+    summary: >
+    highlights:
+      - "Developed and devised Neural Network model for prediction of behavior of NAVER search users by massive log data"
+      - "Prediction of click/behavior/log probability for each log for NAVER search users"
 awards:
-  - title: "Digital Compression Pioneer Award"
-    date: "2014-11-01"
-    awarder: "Techcrunch"
-    summary: "There is no spoon."
+  - title: "Dean’s List"
+    date: ""
+    awarder: "College of Natural Sciences, SNU"
+    summary: "Nominated for 4 semesters (2017-2 / 2019-1 / 2020-2 / 2021-1)"
+    
+  - title: "Korea Presidential Science Scholarship"
+    startDate: "2017-03-01"
+    endDate: "2020-12-01"
+    awarder: "Korea Student Aid Foundation"
+    summary: "Received full tuition and extra $4,000 annual stipend for 4 years (110 students nominated nationwide)"
+    
+volunteer:
+  - organization: "Science Educational Mentoring Program"
+    position: "Mentor"
+    website: ""
+    startDate: "2017-08-01"
+    endDate: "2019-08-01"
+    summary: "College of Natural Sciences Collaborated with Gochang, Yeongdeok County Office"
+    highlights:
+      - "Participated as leader of math team and presented lectures about statistics"
+      - "Academical volunteering program for students in educationally less-favored region"
+
+  - organization: "Student Council of SNU"
+    position: "Transportation Policy Department"
+    website: ""
+    startDate: "2019-03-01"
+    endDate: "2020-02-01"
+    summary: "Managed routes and intervals of SNU shuttle buses"
+    highlights:
+      - "Established and managed new routines of shuttle bus based on commute demand survey"    
+
+  - organization: "Student Council of College of Natural Sciences"
+    position: "Vice-president of Statistic Department & Class Representative"
+    website: ""
+    startDate: "2017-03-01"
+    endDate: "2018-09-01"
+    summary: "College of Natural Sciences Collaborated with Gochang, Yeongdeok County Office"
+    highlights:
+      - "Participated in decision making process and revised student regulations"
+      - "Managed annual events hosted by Statistic Department"
+      
+
+
 publications:
-  - name: "Video compression for 3d media"
-    publisher: "Hooli"
-    releaseDate: "2014-10-01"
-    website: "https://en.wikipedia.org/wiki/Silicon_Valley_(TV_series)"
-    summary: "Innovative middle-out compression algorithm that changes the way we store data."
+  - name: "Predicting Engine Failure With Hierarchical Gaussian Process"
+    publisher: "Moon Hyunji, Choi Jung In"
+    releaseDate: "2020-09-01"
+    website: "https://mc-stan.org/users/documentation/case-studies"
+    summary: "This casestudy shows how identification and underfitting problems diagnosed from pushforward and predictive checks are addressed through reparameterization and adding variables.."
+    highlights:
+      - "Participated in StanCon 2020 as an author of case studies of Stan"
+      - "Case studies on official stan homepage are intended to reflect best practices in Bayesian methodology and Stan programming"
 skills:
-  - name: "Web Development"
-    level: "Master"
+  - name: "Programming Languages"
+    level: ""
     keywords:
-      - "HTML"
-      - "CSS"
-      - "Javascript"
-  - name: "Compression"
-    level: "Master"
-    keywords:
-      - "Mpeg"
-      - "MP4"
-      - "GIF"
+      - "R"
+      - "Python"
+      - "C, C++"
+      - "Java, Javascript"
+      - "LATEX"
+      - "SQL"
+
 languages:
+  - language: "Korean"
+    fluency: "Native"
   - language: "English"
-    fluency: "Native speaker"
-interests:
-  - name: "Wildlife"
-    keywords:
-      - "Ferrets"
-      - "Unicorns"
-references:
-  - name: "Erlich Bachman"
-    reference: >
-      It is my pleasure to recommend Richard, his performance working as a consultant for Main St.
-      Company proved that he will be a valuable addition to any company.
+    fluency: "fluent"
+
+#interests:
+#  - name: "Wildlife"
+#    keywords:
+#      - "Ferrets"
+#      - "Unicorns"
+#references:
+#  - name: "Erlich Bachman"
+#    reference: >
+#      It is my pleasure to recommend Richard, his performance working as a consultant for Main St.
+#      Company proved that he will be a valuable addition to any company.
