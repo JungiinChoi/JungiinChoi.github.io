@@ -11,7 +11,7 @@ basics:
     Choi Jung In is from Republic of Korea.
     She is in double major of Statistics and Mathematics in Seoul National University(SNU).
     She has research experiences in three statistics laboratory in SNU and NAVER search CIC.
-    Before starting career as researcher of NAVER, she worked for Bayesian Lab, Bioinformatics and Biostatics Lab, and High Dimentional Massive Data Analytics Lab in Statistics Department of SNU.
+    Before starting career as researcher of NAVER, she worked for Bayesian Lab, Bioinformatics and Biostatics Lab, and High Dimensional Massive Data Analytics Lab in Statistics Department of SNU.
     Her main research interest in Statistics is Statistical Machine Learning and Analysis and prediction of High Dimentional data such as NAVER search log data.
     
   profiles:
@@ -24,6 +24,7 @@ education:
     area: "Statistics"
     studyType: "Bachelor"
     startDate: "2017-03-01"
+    website: "http://bibs.snu.ac.kr"
     endDate: ""
     gpa: "4.0"
     courses:

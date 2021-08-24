@@ -1,9 +1,8 @@
 ---
 layout: projects
-title: Projects
+title: Research & Projects
 show_collection: projects
 description: >
-  How people are using Hydejack in the real world. 
-  This page is built using the `projects` layout* that you can use yourself to build a portfolio.
+  This page shows lists of research and projects in **attended courses**, Statistics Labs, and work experience from NAVER search.
 no_groups: true
 ---
