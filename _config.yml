@@ -20,17 +20,17 @@
 lang:                  en
 
 # The title of your blog. Used in the sidebar and the browser tab.
-title:                 CHOI Jung In
+title:                 JungIn Choi
 
 # A short description (~150 chars) of the page used for the meta description tag.
 # Can use markdown, but no more than one paragraph (enforced by `>`)
 description:           >
-  Double Major in Statistics, Mathematics in Seoul National University
+  Statistics & Mathematics Major at Seoul National University
 
 # A shorter description for the sidebar.
-tagline:               Double Major in Statistics, Mathematics in Seoul National University
+tagline:               Statistics & Mathematics Major      at Seoul National University
 # A list of keywords for your blog
-keywords:              [Statistics, Mathematics, Programming, Blog, Vlog]
+keywords:              [Statistics, Mathematics, Programming]
 
 # A (square) logo for your site.
 # If provided, it will be shown at the top of the sidebar.
@@ -40,27 +40,21 @@ logo:                  /assets/img/me_praha.jpeg
 # This should be the same author as first entry in `_data/authors.yml`.
 author:
   # Used by `jekyll-feed`:
-  name:                Jung In CHOI
+  name:                JungIn CHOI
   email:               serimtech07@snu.ac.kr
   # # Used by `jekyll-seo-tag`:
   # twitter:             <username>
 
 # Add links to the sidebar.
 menu:
-  - title:             Résumé*
-    url:               /resume/
-  - title:             Experiences
-    url:               /experiences/
-  - title:             Research & Projects
-    url:               /projects/
-  - title:             Attended Courses
-    url:               /courses/
-  - title:             Documentation
-    url:               /docs/
-  - title:             What is grid
-    url:               /whatisgrid/
-  - title:             Blog
-    url:               /blog/
+  - title:             Research
+    url:               /research/
+  - title:             Experience
+    url:               /experience/
+  - title:             CV
+    url:               /CV/
+  - title:             Contact
+    url:               /contact/
 
 
 
