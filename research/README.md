@@ -1,10 +1,10 @@
 ---
-title: Attended Courses
+title: Research & Projects
 description: >
   These are lists of attended courses in Statistics, Mathematics and Computer sciences. Some of the courses are including projects and you can description of the projects are linked to **Research & Projects** category. 
 hide_description: true
 sitemap: false
-permalink: /courses/
+permalink: /research/
 ---
 
   These are lists of attended courses of Statistics, Mathematics and Computer Science held in Seoul National University.

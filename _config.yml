@@ -51,8 +51,6 @@ menu:
     url:               /research/
   - title:             Experience
     url:               /experience/
-  - title:             CV
-    url:               /CV/
   - title:             Contact
     url:               /contact/
 
@@ -411,7 +409,7 @@ jekyll_compose:
         social media previews, etc.
       image:
         path: /assets/img/Plitvice.jpeg
-    experiences:
+    experience:
       layout: post
       description: > 
         A short ~160 character description of your post for search engines,
